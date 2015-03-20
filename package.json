@@ -1,11 +1,11 @@
 {
-	"author": "Prerender.io",
-	"name": "prerender",
-	"description": "Service to prerender Javascript rendered pages for SEO",
+	"author": "Earlyclaim",
+	"name": "prerender-with-redis",
+	"description": "Service to prerender Javascript rendered pages for SEO with intergation of redis",
 	"version": "3.14.4",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/frnwtr/prerender"
+		"url": "https://github.com/earlyclaim/prerender"
 	},
 	"dependencies": {
 		"aws-sdk": "^2.1.8",
