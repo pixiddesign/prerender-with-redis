@@ -3,8 +3,7 @@ var defaultConfig = function () {
 		logger: false,
 		auth: false,
 		s3HtmlCache: false,
-		redis: false,
-		port: env.PORT
+		redis: false
 	};
 };
 
