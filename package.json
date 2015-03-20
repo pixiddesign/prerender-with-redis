@@ -5,7 +5,7 @@
 	"version": "3.14.4",
 	"repository": {
 		"type": "git",
-		"url": "gihttps://github.com/prerender/prerender"
+		"url": "https://github.com/frnwtr/prerender"
 	},
 	"dependencies": {
 		"aws-sdk": "^2.1.8",
@@ -13,7 +13,7 @@
 		"lodash": "^3.1.0",
 		"phantom": "^0.7.2",
 		"phantomjs": "^1.9.15",
-		"prerender-redis-cache": "git+https://github.com/prerender/prerender.git",
+		"prerender-redis-cache": "https+git://github.com/frnwtr/prerender-redis-cache",
 		"tree-kill": "0.0.6"
 	},
 	"bin": {
