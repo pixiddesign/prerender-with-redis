@@ -4,7 +4,7 @@ var defaultConfig = function () {
 		auth: false,
 		s3HtmlCache: false,
 		redis: false,
-		port: 3000
+		port: env.PORT
 	};
 };
 
