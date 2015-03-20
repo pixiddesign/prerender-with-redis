@@ -24,5 +24,8 @@ exports = module.exports = function () {
 		config.redis = true;
 	}
 
+	if (config.logger) {
+		console.log("Configuration active", config);
+	}
 	return config;
 };
