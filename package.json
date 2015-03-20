@@ -13,7 +13,7 @@
 		"lodash": "^3.1.0",
 		"phantom": "^0.7.2",
 		"phantomjs": "^1.9.15",
-		"prerender-redis-cache": "https+git://github.com/frnwtr/prerender-redis-cache",
+		"prerender-redis-cache": "https://github.com/frnwtr/prerender-redis-cache.git",
 		"tree-kill": "0.0.6"
 	},
 	"bin": {
