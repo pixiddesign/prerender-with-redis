@@ -14,7 +14,7 @@ if (config.auth) {
 	server.use(prerender.basicAuth());
 }
 if (config.logger) {
-	server.use(prerender.basicAuth());
+	server.use(prerender.logger());
 }
 server.use(prerender.blacklist());
 server.use(prerender.removeScriptTags());
